@@ -17,8 +17,8 @@ A simple, responsive Expense Tracker app built with HTML, CSS, JavaScript, and M
 **📦 Installation
 Clone the repository:
 
-`git clone https://github.com/yourusername/expense-tracker-js.git`
-`cd expense-tracker-js`
+`git clone https://github.com/Yusuf-Sayyed/Expense-Tracker-web-app.git`
+`cd Expense-Tracker-web-app`
 
 Install dependencies:
 `npm install`
