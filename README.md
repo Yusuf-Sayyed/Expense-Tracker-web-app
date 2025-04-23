@@ -8,11 +8,14 @@ A simple, responsive Expense Tracker app built with HTML, CSS, JavaScript, and M
 - Mobile-friendly and responsive UI
 - Generate report of expense and income in pdf format
 
-
 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
 - Database: MongoDB
+
+Login 
+![Screenshot 2025-04-02 113512](https://github.com/user-attachments/assets/9923f5c2-b1e9-41e8-8b75-d398aa2861e1)
+
 
 **📦 Installation
 Clone the repository:
