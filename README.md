@@ -21,10 +21,13 @@ A simple, responsive Expense Tracker app built with HTML, CSS, JavaScript, and M
 
 ![Screenshot 2025-04-02 113512](https://github.com/user-attachments/assets/9923f5c2-b1e9-41e8-8b75-d398aa2861e1)
 
-Dashboard
+3- Dashboard
 
 ![Screenshot 2025-04-02 113303](https://github.com/user-attachments/assets/404bd213-0812-4d1e-a730-98cab3c49f5a)
 
+4- Report Generate
+
+![image](https://github.com/user-attachments/assets/87205aa1-3dcc-434c-a4ed-d45ea3223284)
 
 
 **📦 Installation
